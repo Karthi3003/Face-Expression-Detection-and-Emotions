@@ -2,7 +2,7 @@
 
  Project Title: **Face Expression Detection and Emotion Recognition Using Python**
 
-Duration: [AUG 2023 - OCT 2024]  
+Duration: [AUG 2023 - OCT 2023]  
 **Tools & Technologies**: Python, OpenCV, TensorFlow/Keras, Scikit-learn, Numpy, DSA (Data Structures and Algorithms)  
 **Domain**: Machine Learning, Computer Vision, Deep Learning
 
